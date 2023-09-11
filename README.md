@@ -6,7 +6,7 @@ El proyecto de ML-DataCraft tiene como objetivo principal preparar, limpiar y vi
 
 ***
 
-### <p align="center">Subproyecto 1: Data Cleaning y Data Visualization con Python</p>
+### <p align="center">Caso 1: Data Cleaning y Data Visualization con Python</p>
 
 <p align="center"><img src="https://github.com/ccalvop/ML-DataCraft/assets/126183973/dbab2846-4b01-48eb-a20c-7d8ed16af63d" /></p>
 
@@ -32,7 +32,7 @@ Un notebook (Jupyter Notebook) con el proceso de preparación de datos. Además,
 
 ***
 
-### <p align="center">Subproyecto 2: Data Cleaning y Data Visualization con AWS</p>
+### <p align="center">Caso 2: Data Cleaning y Data Visualization con AWS</p>
 
 <p align="center"><img src="https://github.com/ccalvop/ML-DataCraft/assets/126183973/583b8551-7b1a-4013-80bc-c5ecfb5724f5" /></p>
 
