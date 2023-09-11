@@ -50,6 +50,8 @@ Preprocesar y limpiar conjuntos de datos utilizando los servicios de AWS (AWS Gl
 
 En este subproyecto, se utilizarán los servicios de AWS anteriormente descritos para realizar la limpieza y preprocesamiento de los datos. Esto incluirá la definición de transformaciones de datos y configuración de trabajos en AWS Glue. Además, se  utilizá AWS QuickSight para visualizar los datos transformados y crear dashboards interactivos.
 
+<p align="center"><img src="https://github.com/ccalvop/ML-DataCraft/assets/126183973/863e37a2-5887-4f69-a297-2c9748c5e28b" /></p>
+
 **Resultado Esperado:**
 
 Documentación de las opciones y configuraciones utilizadas en AWS Glue. Además, el dataset final con el conjunto de datos limpios y preprocesados almacenados en Amazon S3, listos para ser utilizados en procesos posteriores de análisis y entrenamiento de modelos de Machine Learning. Se mostrarán visualizaciones interactivas y dashboards que permitan una comprensión detallada de los datos transformados.
