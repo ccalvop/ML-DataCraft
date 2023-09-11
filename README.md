@@ -1,6 +1,6 @@
 # <p align="center">ML-DataCraft</p> 
 
-<p align="El proyecto de ML-DataCraft tiene como objetivo preparar, limpiar y visualizar conjuntos de datos.</p>
+<p align="El proyecto de ML-DataCraft tiene como objetivo preparar, limpiar y visualizar conjuntos de datos.</p> 
 
 Preparar datasets brutos (Raw Datasets) de manera integral, asegurando su usabilidad para modelos de Machine Learning o entornos de analítica Big Data.
 
