@@ -1,8 +1,8 @@
 # <p align="center">ML-DataCraft</p> 
 
-**Objetivo:**
+<p align="El proyecto de ML-DataCraft tiene como objetivo preparar, limpiar y visualizar conjuntos de datos.</p>
 
-El proyecto de ML-DataCraft tiene como objetivo preparar, limpiar y visualizar conjuntos de datos para que sean adecuados como datasets. Preparar datasets brutos de manera integral, asegurando su usabilidad para su posterior análisis y uso en modelos de Machine Learning o en entornos de analítica Big Data.
+Preparar datasets brutos (Raw Datasets) de manera integral, asegurando su usabilidad para modelos de Machine Learning o entornos de analítica Big Data.
 
 ***
 
@@ -14,11 +14,22 @@ El proyecto de ML-DataCraft tiene como objetivo preparar, limpiar y visualizar c
 
 Preprocesar y limpiar conjuntos de datos brutos utilizando Python, a través de Jupyter Notebooks, para una documentación detallada y comprensión paso a paso del proceso. Además, se incluirá la visualización de datos para ofrecer una comprensión completa del conjunto de datos desde el principio del proceso.
 
+El proceso se enfocará en solucionar problemas encontrados frecuentemente en datasets brutos, como:
+
+*Columnas inconsistentes (Inconsistent column)  
+Falta de datos (Missing data)  
+Valores atípicos (Outliers)  
+Filas duplicadas (Duplicate rows)  
+Conjuntos de datos pequeños (Tiny data set)  
+Conversión de tipos de datos (Convert data types)  
+Manipulación de cadenas de texto (String manipulation)  
+Concatenación de datos (Data concatenation)*
+
 **Software Utilizado:**
 
-Python:  
-  -Librerías de Preparación de Datos (Pandas, NumPy, scikit-learn)  
-  -Librerías de Visualización de Datos (Matplotlib, Seaborn, Plotly)
+**Python**  
+  -Librerías para *Preparación de Datos* (Pandas, NumPy, scikit-learn)  
+  -Librerías para *Visualización de Datos* (Matplotlib, Seaborn, Plotly)
 
 **Resumen del Proceso:**
 
@@ -48,10 +59,12 @@ Preprocesar y limpiar conjuntos de datos utilizando los servicios de AWS (AWS Gl
 
 **Resumen del Proceso:**
 
-En este subproyecto, se utilizarán los servicios de AWS anteriormente descritos para realizar la limpieza y preprocesamiento de los datos. Esto incluirá la definición de transformaciones de datos y configuración de trabajos en AWS Glue. Además, se  utilizá AWS QuickSight para visualizar los datos transformados y crear dashboards interactivos.
+En este subproyecto, se utilizarán los servicios de AWS anteriormente descritos para realizar una limpieza y preprocesamiento de los datos. Esto incluirá la definición de transformaciones de datos y configuración de trabajos en AWS Glue. Además, se utilizá AWS QuickSight para visualizar los datos transformados y crear dashboards interactivos.
 
 <p align="center"><img src="https://github.com/ccalvop/ML-DataCraft/assets/126183973/863e37a2-5887-4f69-a297-2c9748c5e28b" /></p>
 
 **Resultado Esperado:**
 
 Documentación de las opciones y configuraciones utilizadas en AWS Glue. Además, el dataset final con el conjunto de datos limpios y preprocesados almacenados en Amazon S3, listos para ser utilizados en procesos posteriores de análisis y entrenamiento de modelos de Machine Learning. Se mostrarán visualizaciones interactivas y dashboards que permitan una comprensión detallada de los datos transformados.
+
+***
