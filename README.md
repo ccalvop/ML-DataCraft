@@ -2,7 +2,7 @@
 
 **Objetivo:**
 
-El proyecto de ML-DataCraft tiene como objetivo principal preparar, limpiar y visualizar conjuntos de datos para que sean adecuados como datasets fuente de datos. Busco preparar esos datasets de manera integral, asegurando su usabilidad para su posterior análisis y uso en modelos de Machine Learning o en entornos de analítica Big Data.
+El proyecto de ML-DataCraft tiene como objetivo preparar, limpiar y visualizar conjuntos de datos para que sean adecuados como datasets. Preparar datasets brutos de manera integral, asegurando su usabilidad para su posterior análisis y uso en modelos de Machine Learning o en entornos de analítica Big Data.
 
 ***
 
