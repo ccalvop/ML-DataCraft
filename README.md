@@ -27,7 +27,8 @@ Concatenación de datos (Data concatenation)*
 **Software Utilizado:**
 
 **Python**  
-  -Librerías para *Preparación de Datos* (Pandas, NumPy, scikit-learn). *"Pandas is the primary tool data scientists use for exploring and manipulating data."*  
+  -Librerías para *Preparación de Datos* (Pandas, NumPy, scikit-learn).  
+      *"Pandas is the primary tool data scientists use for exploring and manipulating data."*  
   -Librerías para *Visualización de Datos* (Matplotlib, Seaborn, Plotly)
 
 **Resumen del Proceso:**
