@@ -1,7 +1,6 @@
-# <p align="center">ML-DataCraft</p> 
+<p align="center"><img src="https://github.com/ccalvop/ML-DataCraft/assets/126183973/d0f7ae71-5299-48fd-a67c-d0588d2b3cdc" /></p>
 
 El proyecto de **ML-DataCraft** tiene como objetivo mostrar diferentes técnicas para **preparar, limpiar y visualizar** conjuntos de datos. Transformar datasets brutos (Raw Datasets) de manera integral, asegurando su usabilidad para modelos de **Machine Learning** o entornos de **analítica** Big Data.
-
 
 ***
 
