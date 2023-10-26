@@ -67,5 +67,3 @@ En este subproyecto, se utilizarán los servicios de AWS anteriormente descritos
 Documentación de las opciones y configuraciones utilizadas en AWS Glue. Además, el dataset final con el conjunto de datos limpios y preprocesados almacenados en Amazon S3, listos para ser utilizados en procesos posteriores de análisis y entrenamiento de modelos de Machine Learning. Se mostrarán visualizaciones interactivas y dashboards que permitan una comprensión detallada de los datos transformados.
 
 ***
-
-TIME - 2023-10-26 09:14:05
